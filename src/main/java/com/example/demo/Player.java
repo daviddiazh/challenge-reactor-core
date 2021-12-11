@@ -10,7 +10,7 @@ public class Player {
     public int games;
     public String club;
 
-    public Player(){
+    public Player(s){
 
     }
 
